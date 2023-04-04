@@ -1,1 +1,20 @@
+# Scrollspy made with react and chakra-Ui
 
+to run this project 
+
+first clone this repo and  instal dependencies with yarn "you can use npm if you prefer "
+```
+git clone git@github.com:nandumoura/scrollspy-in-react.git
+
+cd scrollspy-in-react/ 
+yarn 
+
+```
+
+second start the server  
+
+```
+yarn dev
+```
+then click on the path that opens in the console with ctrl + click
+ 
